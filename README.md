@@ -1,3 +1,1 @@
-# Oliver
-
 # Hi, there!
